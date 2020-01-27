@@ -1,2 +1,2 @@
-# serverless-db-backup
-serverless-db-backup
+# serverless-dynamodb-backup
+serverless-dynamodb-backup
